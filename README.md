@@ -72,3 +72,6 @@ Targeted Loyalty Programs: Over 80% of buyers fall into the Loyal segment (>10 p
 Discount Strategy Optimization: Products like Hats, Sneakers, and Coats rely heavily on discounts (>48% discount rate). Restructure promotions to avoid margin erosion while preserving sales volume.
 
 Demographic Expansion: Young Adults and Middle-aged segments contribute the highest total revenue ($62.1K and $59.1K). Focus acquisition campaigns on these core demographics.  
+
+
+Disclaimer: This is an unofficial, independent analytics case study created solely for portfolio/educational purposes. It is not affiliated with, endorsed by, or connected to Zepto.
